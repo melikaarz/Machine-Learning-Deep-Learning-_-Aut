@@ -1,6 +1,5 @@
 # Comprehensive Machine Learning and Deep Learning Course  
-**Amirkabir University of Technology**
-This repository contains **summaries, assignments, and projects** for the Comprehensive Machine Learning and Deep Learning Course organized by the Chemical Engineering Association of Amirkabir University of Technology. The course is taught by Dr. Amir Zamani Doost.
+This repository contains **summaries, assignments, and projects** for the Comprehensive Machine Learning and Deep Learning Course organized by the Chemical Engineering Association of **Amirkabir University of Technology**. The course is taught by Dr. Amir Zamani Doost.
 
 ## 📑 Contents
 - Course summaries (Sessions)  
