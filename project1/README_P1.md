@@ -31,10 +31,10 @@ The goal is to analyze model performance on training, validation, and test datas
 ---
 
 ## 📊 Result 
-🔹 Linear Regression
+-🔹 Linear Regression
 - Fits a straight line to the dataset
 - Visualizes predictions on train, validation, and test sets
-🔹 Polynomial Regression
+-🔹 Polynomial Regression
 - Fits polynomial curves of varying degrees (1–10)
 - Computes RMSE for both training and validation data
 - Demonstrates the tradeoff between underfitting (low degree) and overfitting (high degree)
