@@ -16,9 +16,6 @@ Implemented projects so far:
 - **Polynomial Regression**  
 ---
 
-- This repository is for **educational purposes**.  
-- Contributions and improvements are welcome!  
-
----
-
-👨‍🎓 *Prepared as part of the Comprehensive Machine Learning and Deep Learning Course at Amirkabir University of Technology.*  
+ 🎯This repository is for **educational purposes**.  
+ 📂 Contributions and improvements are welcome!  
+ 👨‍🎓 *Prepared as part of the Comprehensive Machine Learning and Deep Learning Course at Amirkabir University of Technology.*  
