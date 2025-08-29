@@ -34,7 +34,7 @@ The goal is to analyze model performance on training, validation, and test datas
 🔹 Linear Regression
 - Fits a straight line to the dataset
 - Visualizes predictions on train, validation, and test sets
--
+
 🔹 Polynomial Regression
 - Fits polynomial curves of varying degrees (1–10)
 - Computes RMSE for both training and validation data
@@ -42,6 +42,6 @@ The goal is to analyze model performance on training, validation, and test datas
 
 ---
 ## 🎯 Learning Objectives
-Understand the basics of Linear Regression
-Learn how Polynomial Regression improves curve fitting flexibility
-Practice evaluating model performance using RMSE
+- Understand the basics of Linear Regression
+- Learn how Polynomial Regression improves curve fitting flexibility
+- Practice evaluating model performance using RMSE
