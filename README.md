@@ -14,6 +14,7 @@ This repository contains **summaries, assignments, and projects** for the Compre
 Implemented projects so far:
 - **Linear Regression**  
 - **Polynomial Regression**  
+---
 
 - This repository is for **educational purposes**.  
 - Contributions and improvements are welcome!  
