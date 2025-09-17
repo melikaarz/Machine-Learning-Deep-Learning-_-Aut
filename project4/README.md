@@ -2,7 +2,7 @@
 
 This project demonstrates the implementation of a **Convolutional Neural
 Network (CNN)** for handwritten character recognition using the **EMNIST
-(Balanced) dataset**.\
+(Balanced) dataset**.
 The goal is to build a baseline CNN, track experiments with **Weights &
 Biases (wandb)**, and improve performance through **hyperparameter
 tuning**.
@@ -13,11 +13,11 @@ tuning**.
 
 -   Load and preprocess EMNIST dataset (train, validation, test)\
 -   Build a baseline CNN model (convolution, pooling, fully connected
-    layers)\
--   Train the model and evaluate accuracy\
--   Integrate **wandb** for experiment tracking (loss/accuracy curves)\
+    layers)
+-   Train the model and evaluate accuracy
+-   Integrate **wandb** for experiment tracking (loss/accuracy curves)
 -   Perform **hyperparameter tuning** with wandb sweeps (learning rate,
-    optimizer, batch size, dropout, etc.)\
+    optimizer, batch size, dropout, etc.)
 -   Visualize model performance (accuracy, loss curves, confusion
     matrix)
 
@@ -25,11 +25,11 @@ tuning**.
 
 ## 🛠️ Technologies Used
 
--   Python\
--   PyTorch\
--   torchvision\
--   Matplotlib\
--   scikit-learn\
+-   Python
+-   PyTorch
+-   torchvision
+-   Matplotlib
+-   scikit-learn
 -   wandb (Weights & Biases)
 
 ------------------------------------------------------------------------
@@ -58,10 +58,10 @@ tuning**.
 ## 🎯 Learning Objectives
 
 -   Understand how to preprocess and train CNNs on handwritten character
-    datasets\
+    datasets
 -   Learn to integrate **wandb** for experiment tracking and
-    visualization\
+    visualization
 -   Explore the impact of hyperparameters (learning rate, optimizer,
-    dropout, filters) on CNN performance\
+    dropout, filters) on CNN performance
 -   Practice evaluating classification models with accuracy, loss
     curves, and confusion matrices
