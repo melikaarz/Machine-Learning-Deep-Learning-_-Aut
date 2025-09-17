@@ -29,11 +29,10 @@ The goal is to analyze model performance on training, validation, and test datas
 ---
 
 📂 **Project Structure**
-- `Medical_Text_Classification.ipynb` → Jupyter Notebook with implementation  
+- `pr3_melika_rezaye.ipynb` → Jupyter Notebook with implementation  
 - `train.csv` → Training dataset  
 - `valid.csv` → Validation dataset  
-- `test.csv` → Test dataset  
-- `vocab.txt` → Vocabulary file (word, ID, frequency)  
+- `test.csv` → Test dataset 
 
 ---
 
