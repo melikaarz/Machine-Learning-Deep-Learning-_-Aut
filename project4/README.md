@@ -44,13 +44,13 @@ tuning**.
 
 ## 📊 Results
 
-🔹 **Baseline CNN**\
-- Achieved moderate accuracy on test set\
+🔹 **Baseline CNN**
+- Achieved moderate accuracy on test set
 - Provided starting point for tuning
 
-🔹 **After Hyperparameter Tuning**\
-- Accuracy improved\
-- Validation curves showed better generalization\
+🔹 **After Hyperparameter Tuning**
+- Accuracy improved
+- Validation curves showed better generalization
 - Confusion Matrix highlighted classes with most confusion
 
 ------------------------------------------------------------------------
