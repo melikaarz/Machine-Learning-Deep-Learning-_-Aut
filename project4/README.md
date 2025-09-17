@@ -36,9 +36,7 @@ tuning**.
 
 ## 📂 Project Structure
 
-    main.py              # Training script with wandb integration
-    models.py            # CNN model definition
-    utils.py             # Helper functions (plotting, evaluation)
+    pr4_melika_rezaye.ipynb # Training script with wandb integration and CNN model definition
     README.md            # Project documentation
     data/                # EMNIST dataset (downloaded automatically)
 
@@ -47,11 +45,11 @@ tuning**.
 ## 📊 Results
 
 🔹 **Baseline CNN**\
-- Achieved moderate accuracy (\~XX%) on test set\
+- Achieved moderate accuracy on test set\
 - Provided starting point for tuning
 
 🔹 **After Hyperparameter Tuning**\
-- Accuracy improved to \~YY%\
+- Accuracy improved\
 - Validation curves showed better generalization\
 - Confusion Matrix highlighted classes with most confusion
 
