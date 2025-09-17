@@ -1,4 +1,5 @@
 # 🩺 Medical Text Classification Project
+This project was implemented based on the requirements described in Project3.pdf .
 This project demonstrates the implementation of different machine learning models (Logistic Regression, Decision Tree, Random Forest, and XGBoost) for **classifying medical transcripts** into four categories.  
 The goal is to analyze model performance on training, validation, and test datasets, and to compare two text representations: **Binary Bag-of-Words (BBoW)** and **Frequency Bag-of-Words (FBoW)**.
 
