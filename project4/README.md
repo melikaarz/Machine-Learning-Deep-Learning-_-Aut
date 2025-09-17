@@ -1,5 +1,5 @@
 # Handwritten Character Recognition with CNN (EMNIST)
-
+This project was implemented based on the requirements described in Project_4.pdf
 This project demonstrates the implementation of a **Convolutional Neural
 Network (CNN)** for handwritten character recognition using the **EMNIST
 (Balanced) dataset**.
