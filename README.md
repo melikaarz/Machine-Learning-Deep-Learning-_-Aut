@@ -12,8 +12,10 @@ This repository contains **summaries, assignments, and projects** for the Compre
 
 ## 🚀 Projects
 Implemented projects so far:
-- **Linear Regression**  
-- **Polynomial Regression**  
+- Linear & Polynomial Regression
+-California Housing Price Prediction Linear Regression
+-Medical Text Classification
+-Handwritten Character Recognition with CNN
 ---
 
  🎯This repository is for **educational purposes**.  
