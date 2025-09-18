@@ -1,4 +1,4 @@
-# California Housing Price Prediction – Linear and  Regression Project  
+# California Housing Price Prediction – Linear Regression Project  
 
 This project demonstrates the implementation of **Linear Regression** for predicting median house values in California districts.  
 The goal is to practice implementing linear regression from scratch, evaluate performance, and compare results with Scikit-learn’s built-in model.  
