@@ -25,8 +25,8 @@ The objective is to maximize the **F1-score** on the validation set while explor
 ---
 
 ## 📂 Project Structure
-melika_rezaye_final_project.ipynb # Jupyter Notebook with full implementation
-data/ # Automatically downloaded MNIST dataset
+- melika_rezaye_final_project.ipynb # Jupyter Notebook with full implementation
+- data/ # Automatically downloaded MNIST dataset
 
 ---
 
